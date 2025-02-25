@@ -11,7 +11,7 @@ background(0);
 fill(255);
 noStroke();
 
-// Variables de configuración
+// definir variables
 int cantidadHoras = 12;
 int cantidadMinSeg = 60;
 int margenHoras = 100;
